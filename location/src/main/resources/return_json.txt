@@ -1,0 +1,28 @@
+alert":1,
+   "thermometer": {
+       "events": 5,
+       "parkings": 3,
+       "alergies": 1
+   }
+   ,"weather": {
+       "forecast": "Parcialmente jodido",
+       "min": 18,
+       "max": 31
+   },
+   "events": [{
+       "id": 1,
+       "description": "Movidas en el Bernabéu",
+       "lat": 40.4173871,
+       "lon": -3.7040457
+   }, {
+       "id": 2,
+       "description": "Movidas en el Caledrón",
+       "lat": 40.4193681,
+       "lon": -3.7113077
+   }],
+   "parkings": [{
+       "id": 1,
+       "description": "Tudescos",
+       "lat": 40.4110371,
+       "lon": -3.7049817
+   }]
