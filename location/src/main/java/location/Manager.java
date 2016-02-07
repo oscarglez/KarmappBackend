@@ -42,6 +42,7 @@ public class Manager {
 	private String parkings2File = "/home/future/hackaton/location/src/main/resources/202584-0-aparcamientos-residentes.xml";
 	private String electricFile = "/home/future/hackaton/location/src/main/resources/electric.json";
 	private String eventsFile = "/home/future/hackaton/location/src/main/resources/212504-0-agenda-actividades-deportes.xml";
+
 	public Manager() {
 		// Carga la caché de parkings
 
@@ -54,8 +55,8 @@ public class Manager {
 
 		// Carga de las estacioens eléctricas de recarga
 		try {
-			electricChargerLoad();
-		} catch (IOException e) {
+			//electricChargerLoad();
+		} catch (Exception e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
@@ -68,6 +69,48 @@ public class Manager {
 		}
 	}
 
+	public Manager(String pPublicos, String pResidentes, String pElectricos, String deportes) {
+		this.parkingsFile = pPublicos;
+		this.parkings2File = pResidentes;
+		this.electricFile = pElectricos;
+		this.eventsFile = deportes;
+
+		// Carga la caché de parkings
+
+		try {
+			parkingsLoad();
+		} catch (DocumentException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+
+		// Carga de las estacioens eléctricas de recarga
+		try {
+			electricChargerLoad();
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		// Carga de los eventos
+		try {
+			eventsLoad();
+		} catch (DocumentException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	}
+
+	public String dataManager(indataDN id2) {
+		Genson genson = new Genson();
+
+		karmapp_data kd = execute(id2);
+
+		// Construido el objeto se pasa a formato json y se sevuelve
+		String kdToString = genson.serialize(kd);
+		return kdToString;
+
+	}
+
 	// Recibe la información pasada por la app, y genera la información a
 	// devolver para el evento
 	public String dataManager(String indata) {
@@ -76,6 +119,10 @@ public class Manager {
 		indataDN id2 = new indataDN();
 
 		id2 = genson.deserialize(indata, indataDN.class);
+		return dataManager(id2);
+	}
+	
+	public karmapp_data execute(indataDN id2) {
 
 		// A partir de los datos recibidos se ejecutan las consultas cargando el
 		// obj de resultados y se devuelve el json correspondiente
@@ -90,10 +137,10 @@ public class Manager {
 		kd.setParkings(recoveredParkings);
 		thermometer.setParkings(recoveredParkings.length);
 
-		// Recuperamos las estaciones de recarga
-		electricCharger[] recoverRecharger = this.getElectricCharger(id2.getLongitude(), id2.getLatitude());
-		kd.setElectricCharger(recoverRecharger);
-		thermometer.setElectricChargers(recoverRecharger.length);
+//		// Recuperamos las estaciones de recarga
+//		electricCharger[] recoverRecharger = this.getElectricCharger(id2.getLongitude(), id2.getLatitude());
+//		kd.setElectricCharger(recoverRecharger);
+//		thermometer.setElectricChargers(recoverRecharger.length);
 
 		// Recupero el listado de eventos
 		events[] events = this.getEvents(id2.getLongitude(), id2.getLatitude(), id2.getEventDate());
@@ -104,37 +151,8 @@ public class Manager {
 		thermometer.setPollution(0);
 
 		kd.setThermometer(thermometer);
-
-		// Construido el objeto se pasa a formato json y se sevuelve
-		String kdToString = genson.serialize(kd);
-		return kdToString;
-
-		// indataDN id = new indataDN();
-		// id.setdate(DateTime.now().toString());
-		// id.setLatitude(10d);
-		// id.setLongitude(20d);
-		// id.setUserID("ogonzalez@futurespace.es");
-
-		// Recupero del listado de pares de fechas eventos el listado de eventos
-		// que hay registrados para la fecha
-		// Genson genson = new Genson();
-		// String inputDataString = genson.serialize(id);
-
-		// String inputdatagson =
-		// "{\"date\":\"2016-02-06T07:12:23.304+01:00\",\"latitude\":10.0,\"longitude\":20.0,\"userID\":\"ogonzalez@futurespace.es\"}";
-
-		// indataDN id2 = new indataDN();
-
-		// id2 = genson.deserialize(indata, indataDN.class);
-		// System.out.println(id.getLatitude());
-		// System.out.println(id.getLongitude());
-		// System.out.println(id.getdate());
-		// System.out.println(id.getEventDate().toString());
-		// System.out.println(id.getUserID());
-		//
-		// System.out.println(inputDataString);
-		// return null;
-
+		
+		return kd;
 	}
 
 	private void eventsLoad() throws DocumentException {
@@ -150,7 +168,7 @@ public class Manager {
 			Node node = (Node) iter.next();
 			//Recupero el evento
 			eventData eventData = getEventsData(node);			
-//				workingCache.getCache().add((locationDN) parkingData);
+			//				workingCache.getCache().add((locationDN) parkingData);
 			//Busco si por fecha ya hay eventos,
 			Boolean isAppended = false;
 			for (eventDataSet eventDataSet : eventsCache) {
@@ -163,7 +181,7 @@ public class Manager {
 				eventsCache.add(new eventDataSet(eventData.getEventTime(),eventData.getEventLocation()));
 			}
 		}
-		
+
 	}
 
 	private eventData getEventsData(Node node) {
@@ -193,12 +211,12 @@ public class Manager {
 		}
 		return eventData;
 	}
-	
-	
-	
-	
-	
-	
+
+
+
+
+
+
 	private void electricChargerLoad() throws IOException {
 
 		Genson genson = new Genson();
