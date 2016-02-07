@@ -12,7 +12,7 @@ public class program_location {
 		
 		System.out.println(dataManagerEvent);
 
-		
+
 
 //"latitude\":40.4521419,\"longitude\":-3.6903855000000476
 //
