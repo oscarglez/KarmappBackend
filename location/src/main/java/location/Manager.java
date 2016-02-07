@@ -137,10 +137,10 @@ public class Manager {
 		kd.setParkings(recoveredParkings);
 		thermometer.setParkings(recoveredParkings.length);
 
-		// Recuperamos las estaciones de recarga
-		electricCharger[] recoverRecharger = this.getElectricCharger(id2.getLongitude(), id2.getLatitude());
-		kd.setElectricCharger(recoverRecharger);
-		thermometer.setElectricChargers(recoverRecharger.length);
+//		// Recuperamos las estaciones de recarga
+//		electricCharger[] recoverRecharger = this.getElectricCharger(id2.getLongitude(), id2.getLatitude());
+//		kd.setElectricCharger(recoverRecharger);
+//		thermometer.setElectricChargers(recoverRecharger.length);
 
 		// Recupero el listado de eventos
 		events[] events = this.getEvents(id2.getLongitude(), id2.getLatitude(), id2.getEventDate());
