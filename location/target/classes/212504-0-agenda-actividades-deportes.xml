@@ -1,0 +1,908 @@
+<?xml version="1.0" encoding="UTF-8" ?><Contenidos>
+    <infoDataset>
+        <nombre>Agenda de actividades deportivas</nombre>
+        <id>212504-0</id>
+        <uri>http://datos.madrid.es/egob/catalogo/212504-0-agenda-actividades-deportes</uri>
+        <descripcion> A continuación se refleja las actividades deportivas que se celebran en la ciudad de Madrid.  Es importante destacar que no se trata de una relación exhaustiva de las actividades que se celebran en la vía publica o en recintos deportivos, sino solamente aquellas actividades que el Ayuntamiento de Madrid conoce y ha incluido en su web municipal:  www.madrid.es   </descripcion>
+    </infoDataset>
+    <contenido>
+        <tipo>Evento</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-EVENTO">8644869</atributo>
+            <atributo nombre="TITULO">Atletismo. Carrera 50 aniversario del INEF de Madrid</atributo>
+            <atributo nombre="GRATUITO">0</atributo>
+            <atributo nombre="EVENTO-LARGA-DURACION">0</atributo>
+            <atributo nombre="FECHA-EVENTO">2016-02-21 00:00:00.0</atributo>
+            <atributo nombre="FECHA-FIN-EVENTO">2016-02-21 23:59:00.0</atributo>
+            <atributo nombre="HORA-EVENTO">10:00</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=1ccd566813946010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=45f22d3d6de52510VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="TITULO-ACTIVIDAD">Atletismo. Carrera 50 aniversario del INEF de Madrid</atributo>
+            <atributo nombre="CONTENT-URL-ACTIVIDAD">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=1ccd566813946010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=be39efa7c6e52510VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="TIPO">/contenido/actividades/ActividadesDeportivas/CarrerasMaratones</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>Evento</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-EVENTO">8649895</atributo>
+            <atributo nombre="TITULO">Atletismo. Carrera solidaria Médula para Mateo</atributo>
+            <atributo nombre="GRATUITO">0</atributo>
+            <atributo nombre="EVENTO-LARGA-DURACION">0</atributo>
+            <atributo nombre="FECHA-EVENTO">2016-02-28 00:00:00.0</atributo>
+            <atributo nombre="FECHA-FIN-EVENTO">2016-02-28 23:59:00.0</atributo>
+            <atributo nombre="HORA-EVENTO">10:00</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=1ccd566813946010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=45f473e1eb872510VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="TITULO-ACTIVIDAD">Atletismo. Carrera solidaria Médula para Mateo</atributo>
+            <atributo nombre="CONTENT-URL-ACTIVIDAD">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=1ccd566813946010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=2cb430f7db3e4410VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="CONTENT-URL-INSTALACION">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=8d9a78a0dea9e210VgnVCM1000000b205a0aRCRD</atributo>
+                <atributo nombre="NOMBRE-INSTALACION">Parque Juan Carlos I</atributo>
+                <atributo nombre="ID-INSTALACION">5987836</atributo>
+                <atributo nombre="COORDENADA-X">447977</atributo>
+                <atributo nombre="COORDENADA-Y">4479204</atributo>
+                <atributo nombre="LATITUD">40.45999848510341</atributo>
+                <atributo nombre="LONGITUD">-3.6148888706303586</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="DISTRITO">BARAJAS</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/actividades/ActividadesDeportivas/CarrerasMaratones</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>Evento</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-EVENTO">8628842</atributo>
+            <atributo nombre="TITULO">Atletismo. Carrera solidaria por Siria</atributo>
+            <atributo nombre="GRATUITO">0</atributo>
+            <atributo nombre="EVENTO-LARGA-DURACION">0</atributo>
+            <atributo nombre="FECHA-EVENTO">2016-02-21 00:00:00.0</atributo>
+            <atributo nombre="FECHA-FIN-EVENTO">2016-02-21 23:59:00.0</atributo>
+            <atributo nombre="HORA-EVENTO">09:00</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=1ccd566813946010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=da81d1c591042510VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="TITULO-ACTIVIDAD">Atletismo. Carrera solidaria por Siria. (Muévete por Siria)</atributo>
+            <atributo nombre="CONTENT-URL-ACTIVIDAD">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=1ccd566813946010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=6861c6cd2af32510VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="TIPO">/contenido/actividades/ActividadesDeportivas/CarrerasMaratones</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>Evento</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-EVENTO">8557214</atributo>
+            <atributo nombre="TITULO">Atletismo. La Carrera para todos. XXXVI Medio Maratón Ciudad Universitaria</atributo>
+            <atributo nombre="GRATUITO">0</atributo>
+            <atributo nombre="EVENTO-LARGA-DURACION">0</atributo>
+            <atributo nombre="FECHA-EVENTO">2016-03-13 00:00:00.0</atributo>
+            <atributo nombre="FECHA-FIN-EVENTO">2016-03-13 23:59:00.0</atributo>
+            <atributo nombre="HORA-EVENTO">09:30</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=1ccd566813946010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=7d372a804d091510VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="TITULO-ACTIVIDAD">Atletismo. La Carrera para todos. XXXVI Medio Maratón Ciudad Universitaria</atributo>
+            <atributo nombre="CONTENT-URL-ACTIVIDAD">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=1ccd566813946010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=ba07e47f5a975310VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="TIPO">/contenido/actividades/ActividadesDeportivas/CarrerasMaratones</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>Evento</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-EVENTO">8629773</atributo>
+            <atributo nombre="TITULO">Atletismo. Rock ‘n’ Roll Madrid Maratón y Media Maratón</atributo>
+            <atributo nombre="GRATUITO">0</atributo>
+            <atributo nombre="EVENTO-LARGA-DURACION">0</atributo>
+            <atributo nombre="FECHA-EVENTO">2016-04-24 00:00:00.0</atributo>
+            <atributo nombre="FECHA-FIN-EVENTO">2016-04-24 23:59:00.0</atributo>
+            <atributo nombre="HORA-EVENTO">00:00</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=1ccd566813946010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=87eb2d6985442510VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="TITULO-ACTIVIDAD">Atletismo. 39 Rock ‘n’ Roll Madrid Maratón, Media Maratón, 10 KM, Hand Bikes y Sillas de Atletismo</atributo>
+            <atributo nombre="CONTENT-URL-ACTIVIDAD">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=1ccd566813946010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=dc22253b1d585310VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="TIPO">/contenido/actividades/ActividadesDeportivas/CarrerasMaratones</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>Evento</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-EVENTO">8661028</atributo>
+            <atributo nombre="TITULO">Atletismo. V Carrera Solidaria Entreculturas. 'Corre por una causa, corre por la educación'</atributo>
+            <atributo nombre="GRATUITO">0</atributo>
+            <atributo nombre="EVENTO-LARGA-DURACION">0</atributo>
+            <atributo nombre="FECHA-EVENTO">2016-02-28 00:00:00.0</atributo>
+            <atributo nombre="FECHA-FIN-EVENTO">2016-02-28 23:59:00.0</atributo>
+            <atributo nombre="HORA-EVENTO">09:30</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=1ccd566813946010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=72732fa4c9c92510VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="TITULO-ACTIVIDAD">Atletismo. V Carrera Solidaria Entreculturas. 'Corre por una causa, corre por la educación'</atributo>
+            <atributo nombre="CONTENT-URL-ACTIVIDAD">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=1ccd566813946010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=f03d0d889852b410VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="CONTENT-URL-INSTALACION">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=482a315919a9e210VgnVCM1000000b205a0aRCRD</atributo>
+                <atributo nombre="NOMBRE-INSTALACION">Parque de la Casa de Campo</atributo>
+                <atributo nombre="ID-INSTALACION">5987416</atributo>
+                <atributo nombre="COORDENADA-X">438160</atributo>
+                <atributo nombre="COORDENADA-Y">4474253</atributo>
+                <atributo nombre="LATITUD">40.41472407139105</atributo>
+                <atributo nombre="LONGITUD">-3.7301857404819767</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="DISTRITO">MONCLOA-ARAVACA</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/actividades/ActividadesDeportivas/CarrerasMaratones</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>Evento</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-EVENTO">8672909</atributo>
+            <atributo nombre="TITULO">Atletismo. VI Carrera de Carnaval. Distrito de Barajas</atributo>
+            <atributo nombre="GRATUITO">1</atributo>
+            <atributo nombre="EVENTO-LARGA-DURACION">0</atributo>
+            <atributo nombre="FECHA-EVENTO">2016-02-07 00:00:00.0</atributo>
+            <atributo nombre="FECHA-FIN-EVENTO">2016-02-07 23:59:00.0</atributo>
+            <atributo nombre="HORA-EVENTO">11:00</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=1ccd566813946010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=604952100d1b2510VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="TITULO-ACTIVIDAD">Atletismo. VI Carrera de Carnaval. Distrito de Barajas</atributo>
+            <atributo nombre="CONTENT-URL-ACTIVIDAD">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=1ccd566813946010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=ece852100d1b2510VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="CONTENT-URL-INSTALACION">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=8d9a78a0dea9e210VgnVCM1000000b205a0aRCRD</atributo>
+                <atributo nombre="NOMBRE-INSTALACION">Parque Juan Carlos I</atributo>
+                <atributo nombre="ID-INSTALACION">5987836</atributo>
+                <atributo nombre="COORDENADA-X">447977</atributo>
+                <atributo nombre="COORDENADA-Y">4479204</atributo>
+                <atributo nombre="LATITUD">40.45999848510341</atributo>
+                <atributo nombre="LONGITUD">-3.6148888706303586</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="DISTRITO">BARAJAS</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/actividades/ActividadesDeportivas/CarrerasMaratones</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>Evento</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-EVENTO">8661153</atributo>
+            <atributo nombre="TITULO">Carrera Bomberos de Madrid 2016</atributo>
+            <atributo nombre="GRATUITO">0</atributo>
+            <atributo nombre="EVENTO-LARGA-DURACION">0</atributo>
+            <atributo nombre="FECHA-EVENTO">2016-03-13 00:00:00.0</atributo>
+            <atributo nombre="FECHA-FIN-EVENTO">2016-03-13 23:59:00.0</atributo>
+            <atributo nombre="HORA-EVENTO">09:30</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=1ccd566813946010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=b938b0364cc92510VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="TITULO-ACTIVIDAD">Carrera Bomberos de Madrid 2016</atributo>
+            <atributo nombre="CONTENT-URL-ACTIVIDAD">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=1ccd566813946010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=2e31c038bcfdb410VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="TIPO">/contenido/actividades/ActividadesDeportivas/CarrerasMaratones</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>Evento</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-EVENTO">8653727</atributo>
+            <atributo nombre="TITULO">Fútbol. Champions League. Real Madrid - Roma</atributo>
+            <atributo nombre="GRATUITO">0</atributo>
+            <atributo nombre="EVENTO-LARGA-DURACION">0</atributo>
+            <atributo nombre="FECHA-EVENTO">2016-03-08 00:00:00.0</atributo>
+            <atributo nombre="FECHA-FIN-EVENTO">2016-03-08 23:59:00.0</atributo>
+            <atributo nombre="HORA-EVENTO">20:45</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=1ccd566813946010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=4e4dacec58282510VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="TITULO-ACTIVIDAD">Fútbol. Champions League. Real Madrid - Roma</atributo>
+            <atributo nombre="CONTENT-URL-ACTIVIDAD">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=1ccd566813946010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=851fede1f6282510VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="CONTENT-URL-INSTALACION">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=96fb79262ef5d010VgnVCM1000000b205a0aRCRD</atributo>
+                <atributo nombre="NOMBRE-INSTALACION">Estadio Santiago Bernabéu</atributo>
+                <atributo nombre="ID-INSTALACION">4657</atributo>
+                <atributo nombre="COORDENADA-X">441727</atributo>
+                <atributo nombre="COORDENADA-Y">4478378</atributo>
+                <atributo nombre="LATITUD">40.45214189379938</atributo>
+                <atributo nombre="LONGITUD">-3.68852449488213</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="DISTRITO">CHAMARTIN</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/actividades/ActividadesDeportivas/Futbol</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>Evento</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-EVENTO">8644512</atributo>
+            <atributo nombre="TITULO">Fútbol. UEFA Champions League. Atlético Madrid - PSV Eindhoven</atributo>
+            <atributo nombre="GRATUITO">0</atributo>
+            <atributo nombre="EVENTO-LARGA-DURACION">0</atributo>
+            <atributo nombre="FECHA-EVENTO">2016-03-15 00:00:00.0</atributo>
+            <atributo nombre="FECHA-FIN-EVENTO">2016-03-15 23:59:00.0</atributo>
+            <atributo nombre="HORA-EVENTO">20:45</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=1ccd566813946010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=bb6afd904ae52510VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="TITULO-ACTIVIDAD">Fútbol. UEFA Champions League. Atlético de Madrid - PSV Eindhoven</atributo>
+            <atributo nombre="CONTENT-URL-ACTIVIDAD">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=1ccd566813946010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=4caaad77b5e52510VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="CONTENT-URL-INSTALACION">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=6372a4ea6871c010VgnVCM1000000b205a0aRCRD</atributo>
+                <atributo nombre="NOMBRE-INSTALACION">Estadio Vicente Calderón</atributo>
+                <atributo nombre="ID-INSTALACION">4658</atributo>
+                <atributo nombre="COORDENADA-X">438909</atributo>
+                <atributo nombre="COORDENADA-Y">4472774</atributo>
+                <atributo nombre="LATITUD">40.401455987482606</atributo>
+                <atributo nombre="LONGITUD">-3.721215933848041</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="DISTRITO">ARGANZUELA</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/actividades/ActividadesDeportivas/Futbol</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>Evento</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-EVENTO">8148970</atributo>
+            <atributo nombre="TITULO">Partido de fútbol. Club Atlético de Madrid SAD - Granada CF SAD</atributo>
+            <atributo nombre="GRATUITO">0</atributo>
+            <atributo nombre="EVENTO-LARGA-DURACION">0</atributo>
+            <atributo nombre="FECHA-EVENTO">2016-04-17 00:00:00.0</atributo>
+            <atributo nombre="FECHA-FIN-EVENTO">2016-04-17 23:59:00.0</atributo>
+            <atributo nombre="HORA-EVENTO">00:00</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=1ccd566813946010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=7b47451d9569e410VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="TITULO-ACTIVIDAD">Fútbol. Campeonato Nacional de la Liga BBVA de Primera División 2015 / 2016. Partidos del Club Atlético de Madrid SAD</atributo>
+            <atributo nombre="CONTENT-URL-ACTIVIDAD">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=1ccd566813946010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=b023423c2169e410VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="CONTENT-URL-INSTALACION">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=6372a4ea6871c010VgnVCM1000000b205a0aRCRD</atributo>
+                <atributo nombre="NOMBRE-INSTALACION">Estadio Vicente Calderón</atributo>
+                <atributo nombre="ID-INSTALACION">4658</atributo>
+                <atributo nombre="COORDENADA-X">438909</atributo>
+                <atributo nombre="COORDENADA-Y">4472774</atributo>
+                <atributo nombre="LATITUD">40.401455987482606</atributo>
+                <atributo nombre="LONGITUD">-3.721215933848041</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="DISTRITO">ARGANZUELA</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/actividades/ActividadesDeportivas/Futbol</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>Evento</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-EVENTO">8148972</atributo>
+            <atributo nombre="TITULO">Partido de fútbol. Club Atlético de Madrid SAD - Málaga CF SAD</atributo>
+            <atributo nombre="GRATUITO">0</atributo>
+            <atributo nombre="EVENTO-LARGA-DURACION">0</atributo>
+            <atributo nombre="FECHA-EVENTO">2016-04-24 00:00:00.0</atributo>
+            <atributo nombre="FECHA-FIN-EVENTO">2016-04-24 23:59:00.0</atributo>
+            <atributo nombre="HORA-EVENTO">00:00</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=1ccd566813946010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=a7d830ebb669e410VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="TITULO-ACTIVIDAD">Fútbol. Campeonato Nacional de la Liga BBVA de Primera División 2015 / 2016. Partidos del Club Atlético de Madrid SAD</atributo>
+            <atributo nombre="CONTENT-URL-ACTIVIDAD">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=1ccd566813946010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=b023423c2169e410VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="CONTENT-URL-INSTALACION">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=6372a4ea6871c010VgnVCM1000000b205a0aRCRD</atributo>
+                <atributo nombre="NOMBRE-INSTALACION">Estadio Vicente Calderón</atributo>
+                <atributo nombre="ID-INSTALACION">4658</atributo>
+                <atributo nombre="COORDENADA-X">438909</atributo>
+                <atributo nombre="COORDENADA-Y">4472774</atributo>
+                <atributo nombre="LATITUD">40.401455987482606</atributo>
+                <atributo nombre="LONGITUD">-3.721215933848041</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="DISTRITO">ARGANZUELA</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/actividades/ActividadesDeportivas/Futbol</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>Evento</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-EVENTO">8148995</atributo>
+            <atributo nombre="TITULO">Partido de fútbol. Club Atlético de Madrid SAD - Rayo Vallecano de Madrid SAD</atributo>
+            <atributo nombre="GRATUITO">0</atributo>
+            <atributo nombre="EVENTO-LARGA-DURACION">0</atributo>
+            <atributo nombre="FECHA-EVENTO">2016-05-01 00:00:00.0</atributo>
+            <atributo nombre="FECHA-FIN-EVENTO">2016-05-01 23:59:00.0</atributo>
+            <atributo nombre="HORA-EVENTO">00:00</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=1ccd566813946010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=201a30ebb669e410VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="TITULO-ACTIVIDAD">Fútbol. Campeonato Nacional de la Liga BBVA de Primera División 2015 / 2016. Partidos del Club Atlético de Madrid SAD</atributo>
+            <atributo nombre="CONTENT-URL-ACTIVIDAD">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=1ccd566813946010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=b023423c2169e410VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="CONTENT-URL-INSTALACION">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=6372a4ea6871c010VgnVCM1000000b205a0aRCRD</atributo>
+                <atributo nombre="NOMBRE-INSTALACION">Estadio Vicente Calderón</atributo>
+                <atributo nombre="ID-INSTALACION">4658</atributo>
+                <atributo nombre="COORDENADA-X">438909</atributo>
+                <atributo nombre="COORDENADA-Y">4472774</atributo>
+                <atributo nombre="LATITUD">40.401455987482606</atributo>
+                <atributo nombre="LONGITUD">-3.721215933848041</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="DISTRITO">ARGANZUELA</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/actividades/ActividadesDeportivas/Futbol</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>Evento</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-EVENTO">8149003</atributo>
+            <atributo nombre="TITULO">Partido de fútbol. Club Atlético de Madrid SAD - RC Celta de Vigo SAD</atributo>
+            <atributo nombre="GRATUITO">0</atributo>
+            <atributo nombre="EVENTO-LARGA-DURACION">0</atributo>
+            <atributo nombre="FECHA-EVENTO">2016-05-15 00:00:00.0</atributo>
+            <atributo nombre="FECHA-FIN-EVENTO">2016-05-15 23:59:00.0</atributo>
+            <atributo nombre="HORA-EVENTO">00:00</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=1ccd566813946010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=701b30ebb669e410VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="TITULO-ACTIVIDAD">Fútbol. Campeonato Nacional de la Liga BBVA de Primera División 2015 / 2016. Partidos del Club Atlético de Madrid SAD</atributo>
+            <atributo nombre="CONTENT-URL-ACTIVIDAD">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=1ccd566813946010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=b023423c2169e410VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="CONTENT-URL-INSTALACION">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=6372a4ea6871c010VgnVCM1000000b205a0aRCRD</atributo>
+                <atributo nombre="NOMBRE-INSTALACION">Estadio Vicente Calderón</atributo>
+                <atributo nombre="ID-INSTALACION">4658</atributo>
+                <atributo nombre="COORDENADA-X">438909</atributo>
+                <atributo nombre="COORDENADA-Y">4472774</atributo>
+                <atributo nombre="LATITUD">40.401455987482606</atributo>
+                <atributo nombre="LONGITUD">-3.721215933848041</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="DISTRITO">ARGANZUELA</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/actividades/ActividadesDeportivas/Futbol</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>Evento</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-EVENTO">8148965</atributo>
+            <atributo nombre="TITULO">Partido de fútbol. Club Atlético de Madrid SAD - RC Deportivo de La Coruña SAD</atributo>
+            <atributo nombre="GRATUITO">0</atributo>
+            <atributo nombre="EVENTO-LARGA-DURACION">0</atributo>
+            <atributo nombre="FECHA-EVENTO">2016-03-13 00:00:00.0</atributo>
+            <atributo nombre="FECHA-FIN-EVENTO">2016-03-13 23:59:00.0</atributo>
+            <atributo nombre="HORA-EVENTO">00:00</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=1ccd566813946010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=3e04451d9569e410VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="TITULO-ACTIVIDAD">Fútbol. Campeonato Nacional de la Liga BBVA de Primera División 2015 / 2016. Partidos del Club Atlético de Madrid SAD</atributo>
+            <atributo nombre="CONTENT-URL-ACTIVIDAD">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=1ccd566813946010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=b023423c2169e410VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="CONTENT-URL-INSTALACION">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=6372a4ea6871c010VgnVCM1000000b205a0aRCRD</atributo>
+                <atributo nombre="NOMBRE-INSTALACION">Estadio Vicente Calderón</atributo>
+                <atributo nombre="ID-INSTALACION">4658</atributo>
+                <atributo nombre="COORDENADA-X">438909</atributo>
+                <atributo nombre="COORDENADA-Y">4472774</atributo>
+                <atributo nombre="LATITUD">40.401455987482606</atributo>
+                <atributo nombre="LONGITUD">-3.721215933848041</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="DISTRITO">ARGANZUELA</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/actividades/ActividadesDeportivas/Futbol</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>Evento</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-EVENTO">8148968</atributo>
+            <atributo nombre="TITULO">Partido de fútbol. Club Atlético de Madrid SAD - Real Betis Balompié SAD</atributo>
+            <atributo nombre="GRATUITO">0</atributo>
+            <atributo nombre="EVENTO-LARGA-DURACION">0</atributo>
+            <atributo nombre="FECHA-EVENTO">2016-04-03 00:00:00.0</atributo>
+            <atributo nombre="FECHA-FIN-EVENTO">2016-04-03 23:59:00.0</atributo>
+            <atributo nombre="HORA-EVENTO">00:00</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=1ccd566813946010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=43c6451d9569e410VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="TITULO-ACTIVIDAD">Fútbol. Campeonato Nacional de la Liga BBVA de Primera División 2015 / 2016. Partidos del Club Atlético de Madrid SAD</atributo>
+            <atributo nombre="CONTENT-URL-ACTIVIDAD">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=1ccd566813946010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=b023423c2169e410VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="CONTENT-URL-INSTALACION">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=6372a4ea6871c010VgnVCM1000000b205a0aRCRD</atributo>
+                <atributo nombre="NOMBRE-INSTALACION">Estadio Vicente Calderón</atributo>
+                <atributo nombre="ID-INSTALACION">4658</atributo>
+                <atributo nombre="COORDENADA-X">438909</atributo>
+                <atributo nombre="COORDENADA-Y">4472774</atributo>
+                <atributo nombre="LATITUD">40.401455987482606</atributo>
+                <atributo nombre="LONGITUD">-3.721215933848041</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="DISTRITO">ARGANZUELA</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/actividades/ActividadesDeportivas/Futbol</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>Evento</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-EVENTO">8148964</atributo>
+            <atributo nombre="TITULO">Partido de fútbol. Club Atlético de Madrid SAD - Real Sociedad de Fútbol SAD</atributo>
+            <atributo nombre="GRATUITO">0</atributo>
+            <atributo nombre="EVENTO-LARGA-DURACION">0</atributo>
+            <atributo nombre="FECHA-EVENTO">2016-03-02 00:00:00.0</atributo>
+            <atributo nombre="FECHA-FIN-EVENTO">2016-03-02 23:59:00.0</atributo>
+            <atributo nombre="HORA-EVENTO">00:00</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=1ccd566813946010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=6ca3451d9569e410VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="TITULO-ACTIVIDAD">Fútbol. Campeonato Nacional de la Liga BBVA de Primera División 2015 / 2016. Partidos del Club Atlético de Madrid SAD</atributo>
+            <atributo nombre="CONTENT-URL-ACTIVIDAD">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=1ccd566813946010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=b023423c2169e410VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="CONTENT-URL-INSTALACION">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=6372a4ea6871c010VgnVCM1000000b205a0aRCRD</atributo>
+                <atributo nombre="NOMBRE-INSTALACION">Estadio Vicente Calderón</atributo>
+                <atributo nombre="ID-INSTALACION">4658</atributo>
+                <atributo nombre="COORDENADA-X">438909</atributo>
+                <atributo nombre="COORDENADA-Y">4472774</atributo>
+                <atributo nombre="LATITUD">40.401455987482606</atributo>
+                <atributo nombre="LONGITUD">-3.721215933848041</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="DISTRITO">ARGANZUELA</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/actividades/ActividadesDeportivas/Futbol</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>Evento</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-EVENTO">8148959</atributo>
+            <atributo nombre="TITULO">Partido de fútbol. Club Atlético de Madrid SAD - Villarreal CF SAD</atributo>
+            <atributo nombre="PRECIO"><![CDATA[Socios: 20 a 80 euros
+General: 30 a 100 euros
+VIP Socios: 55 a 350 euros
+VIP General: 70 a 350 euros
+
+]]></atributo>
+            <atributo nombre="GRATUITO">0</atributo>
+            <atributo nombre="EVENTO-LARGA-DURACION">0</atributo>
+            <atributo nombre="FECHA-EVENTO">2016-02-21 00:00:00.0</atributo>
+            <atributo nombre="FECHA-FIN-EVENTO">2016-02-21 23:59:00.0</atributo>
+            <atributo nombre="HORA-EVENTO">20:30</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=1ccd566813946010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=48b0451d9569e410VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="TITULO-ACTIVIDAD">Fútbol. Campeonato Nacional de la Liga BBVA de Primera División 2015 / 2016. Partidos del Club Atlético de Madrid SAD</atributo>
+            <atributo nombre="CONTENT-URL-ACTIVIDAD">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=1ccd566813946010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=b023423c2169e410VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="CONTENT-URL-INSTALACION">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=6372a4ea6871c010VgnVCM1000000b205a0aRCRD</atributo>
+                <atributo nombre="NOMBRE-INSTALACION">Estadio Vicente Calderón</atributo>
+                <atributo nombre="ID-INSTALACION">4658</atributo>
+                <atributo nombre="COORDENADA-X">438909</atributo>
+                <atributo nombre="COORDENADA-Y">4472774</atributo>
+                <atributo nombre="LATITUD">40.401455987482606</atributo>
+                <atributo nombre="LONGITUD">-3.721215933848041</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="DISTRITO">ARGANZUELA</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/actividades/ActividadesDeportivas/Futbol</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>Evento</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-EVENTO">8149096</atributo>
+            <atributo nombre="TITULO">Partido de fútbol. Rayo Vallecano de Madrid SAD - FC Barcelona</atributo>
+            <atributo nombre="GRATUITO">0</atributo>
+            <atributo nombre="EVENTO-LARGA-DURACION">0</atributo>
+            <atributo nombre="FECHA-EVENTO">2016-03-02 00:00:00.0</atributo>
+            <atributo nombre="FECHA-FIN-EVENTO">2016-03-02 23:59:00.0</atributo>
+            <atributo nombre="HORA-EVENTO">00:00</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=1ccd566813946010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=0d0b75f68769e410VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="TITULO-ACTIVIDAD">Fútbol. Campeonato Nacional de la Liga BBVA de Primera División 2015 / 2016. Partidos del Rayo Vallecano de Madrid SAD</atributo>
+            <atributo nombre="CONTENT-URL-ACTIVIDAD">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=1ccd566813946010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=358430ebb669e410VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="CONTENT-URL-INSTALACION">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=bb32a4ea6871c010VgnVCM1000000b205a0aRCRD</atributo>
+                <atributo nombre="NOMBRE-INSTALACION">Estadio de Vallecas</atributo>
+                <atributo nombre="ID-INSTALACION">4659</atributo>
+                <atributo nombre="COORDENADA-X">444245</atributo>
+                <atributo nombre="COORDENADA-Y">4471721</atributo>
+                <atributo nombre="LATITUD">40.39234504772624</atributo>
+                <atributo nombre="LONGITUD">-3.6582462080515588</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="DISTRITO">PUENTE DE VALLECAS</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/actividades/ActividadesDeportivas/Futbol</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>Evento</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-EVENTO">8149098</atributo>
+            <atributo nombre="TITULO">Partido de fútbol. Rayo Vallecano de Madrid SAD - Getafe CF SAD</atributo>
+            <atributo nombre="GRATUITO">0</atributo>
+            <atributo nombre="EVENTO-LARGA-DURACION">0</atributo>
+            <atributo nombre="FECHA-EVENTO">2016-04-03 00:00:00.0</atributo>
+            <atributo nombre="FECHA-FIN-EVENTO">2016-04-03 23:59:00.0</atributo>
+            <atributo nombre="HORA-EVENTO">00:00</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=1ccd566813946010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=83eb75f68769e410VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="TITULO-ACTIVIDAD">Fútbol. Campeonato Nacional de la Liga BBVA de Primera División 2015 / 2016. Partidos del Rayo Vallecano de Madrid SAD</atributo>
+            <atributo nombre="CONTENT-URL-ACTIVIDAD">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=1ccd566813946010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=358430ebb669e410VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="CONTENT-URL-INSTALACION">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=bb32a4ea6871c010VgnVCM1000000b205a0aRCRD</atributo>
+                <atributo nombre="NOMBRE-INSTALACION">Estadio de Vallecas</atributo>
+                <atributo nombre="ID-INSTALACION">4659</atributo>
+                <atributo nombre="COORDENADA-X">444245</atributo>
+                <atributo nombre="COORDENADA-Y">4471721</atributo>
+                <atributo nombre="LATITUD">40.39234504772624</atributo>
+                <atributo nombre="LONGITUD">-3.6582462080515588</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="DISTRITO">PUENTE DE VALLECAS</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/actividades/ActividadesDeportivas/Futbol</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>Evento</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-EVENTO">8149101</atributo>
+            <atributo nombre="TITULO">Partido de fútbol. Rayo Vallecano de Madrid SAD - Levante UD SAD</atributo>
+            <atributo nombre="GRATUITO">0</atributo>
+            <atributo nombre="EVENTO-LARGA-DURACION">0</atributo>
+            <atributo nombre="FECHA-EVENTO">2016-05-15 00:00:00.0</atributo>
+            <atributo nombre="FECHA-FIN-EVENTO">2016-05-15 23:59:00.0</atributo>
+            <atributo nombre="HORA-EVENTO">00:00</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=1ccd566813946010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=6cbb75f68769e410VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="TITULO-ACTIVIDAD">Fútbol. Campeonato Nacional de la Liga BBVA de Primera División 2015 / 2016. Partidos del Rayo Vallecano de Madrid SAD</atributo>
+            <atributo nombre="CONTENT-URL-ACTIVIDAD">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=1ccd566813946010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=358430ebb669e410VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="CONTENT-URL-INSTALACION">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=bb32a4ea6871c010VgnVCM1000000b205a0aRCRD</atributo>
+                <atributo nombre="NOMBRE-INSTALACION">Estadio de Vallecas</atributo>
+                <atributo nombre="ID-INSTALACION">4659</atributo>
+                <atributo nombre="COORDENADA-X">444245</atributo>
+                <atributo nombre="COORDENADA-Y">4471721</atributo>
+                <atributo nombre="LATITUD">40.39234504772624</atributo>
+                <atributo nombre="LONGITUD">-3.6582462080515588</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="DISTRITO">PUENTE DE VALLECAS</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/actividades/ActividadesDeportivas/Futbol</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>Evento</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-EVENTO">8149100</atributo>
+            <atributo nombre="TITULO">Partido de fútbol. Rayo Vallecano de Madrid SAD - Real Madrid CF</atributo>
+            <atributo nombre="GRATUITO">0</atributo>
+            <atributo nombre="EVENTO-LARGA-DURACION">0</atributo>
+            <atributo nombre="FECHA-EVENTO">2016-04-24 00:00:00.0</atributo>
+            <atributo nombre="FECHA-FIN-EVENTO">2016-04-24 23:59:00.0</atributo>
+            <atributo nombre="HORA-EVENTO">00:00</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=1ccd566813946010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=ee7b75f68769e410VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="TITULO-ACTIVIDAD">Fútbol. Campeonato Nacional de la Liga BBVA de Primera División 2015 / 2016. Partidos del Rayo Vallecano de Madrid SAD</atributo>
+            <atributo nombre="CONTENT-URL-ACTIVIDAD">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=1ccd566813946010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=358430ebb669e410VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="CONTENT-URL-INSTALACION">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=bb32a4ea6871c010VgnVCM1000000b205a0aRCRD</atributo>
+                <atributo nombre="NOMBRE-INSTALACION">Estadio de Vallecas</atributo>
+                <atributo nombre="ID-INSTALACION">4659</atributo>
+                <atributo nombre="COORDENADA-X">444245</atributo>
+                <atributo nombre="COORDENADA-Y">4471721</atributo>
+                <atributo nombre="LATITUD">40.39234504772624</atributo>
+                <atributo nombre="LONGITUD">-3.6582462080515588</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="DISTRITO">PUENTE DE VALLECAS</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/actividades/ActividadesDeportivas/Futbol</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>Evento</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-EVENTO">8149097</atributo>
+            <atributo nombre="TITULO">Partido de fútbol. Rayo Vallecano de Madrid SAD - SD Eibar SAD</atributo>
+            <atributo nombre="GRATUITO">0</atributo>
+            <atributo nombre="EVENTO-LARGA-DURACION">0</atributo>
+            <atributo nombre="FECHA-EVENTO">2016-03-13 00:00:00.0</atributo>
+            <atributo nombre="FECHA-FIN-EVENTO">2016-03-13 23:59:00.0</atributo>
+            <atributo nombre="HORA-EVENTO">00:00</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=1ccd566813946010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=13ab75f68769e410VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="TITULO-ACTIVIDAD">Fútbol. Campeonato Nacional de la Liga BBVA de Primera División 2015 / 2016. Partidos del Rayo Vallecano de Madrid SAD</atributo>
+            <atributo nombre="CONTENT-URL-ACTIVIDAD">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=1ccd566813946010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=358430ebb669e410VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="CONTENT-URL-INSTALACION">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=bb32a4ea6871c010VgnVCM1000000b205a0aRCRD</atributo>
+                <atributo nombre="NOMBRE-INSTALACION">Estadio de Vallecas</atributo>
+                <atributo nombre="ID-INSTALACION">4659</atributo>
+                <atributo nombre="COORDENADA-X">444245</atributo>
+                <atributo nombre="COORDENADA-Y">4471721</atributo>
+                <atributo nombre="LATITUD">40.39234504772624</atributo>
+                <atributo nombre="LONGITUD">-3.6582462080515588</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="DISTRITO">PUENTE DE VALLECAS</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/actividades/ActividadesDeportivas/Futbol</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>Evento</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-EVENTO">8149095</atributo>
+            <atributo nombre="TITULO">Partido de fútbol. Rayo Vallecano de Madrid SAD - Sevilla FC SAD</atributo>
+            <atributo nombre="GRATUITO">0</atributo>
+            <atributo nombre="EVENTO-LARGA-DURACION">0</atributo>
+            <atributo nombre="FECHA-EVENTO">2016-02-21 00:00:00.0</atributo>
+            <atributo nombre="FECHA-FIN-EVENTO">2016-02-21 23:59:00.0</atributo>
+            <atributo nombre="HORA-EVENTO">00:00</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=1ccd566813946010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=3c4b75f68769e410VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="TITULO-ACTIVIDAD">Fútbol. Campeonato Nacional de la Liga BBVA de Primera División 2015 / 2016. Partidos del Rayo Vallecano de Madrid SAD</atributo>
+            <atributo nombre="CONTENT-URL-ACTIVIDAD">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=1ccd566813946010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=358430ebb669e410VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="CONTENT-URL-INSTALACION">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=bb32a4ea6871c010VgnVCM1000000b205a0aRCRD</atributo>
+                <atributo nombre="NOMBRE-INSTALACION">Estadio de Vallecas</atributo>
+                <atributo nombre="ID-INSTALACION">4659</atributo>
+                <atributo nombre="COORDENADA-X">444245</atributo>
+                <atributo nombre="COORDENADA-Y">4471721</atributo>
+                <atributo nombre="LATITUD">40.39234504772624</atributo>
+                <atributo nombre="LONGITUD">-3.6582462080515588</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="DISTRITO">PUENTE DE VALLECAS</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/actividades/ActividadesDeportivas/Futbol</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>Evento</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-EVENTO">8149094</atributo>
+            <atributo nombre="TITULO">Partido de fútbol. Rayo Vallecano de Madrid SAD - UD Las Palmas</atributo>
+            <atributo nombre="GRATUITO">0</atributo>
+            <atributo nombre="EVENTO-LARGA-DURACION">0</atributo>
+            <atributo nombre="FECHA-EVENTO">2016-02-07 00:00:00.0</atributo>
+            <atributo nombre="FECHA-FIN-EVENTO">2016-02-07 23:59:00.0</atributo>
+            <atributo nombre="HORA-EVENTO">00:00</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=1ccd566813946010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=30cb75f68769e410VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="TITULO-ACTIVIDAD">Fútbol. Campeonato Nacional de la Liga BBVA de Primera División 2015 / 2016. Partidos del Rayo Vallecano de Madrid SAD</atributo>
+            <atributo nombre="CONTENT-URL-ACTIVIDAD">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=1ccd566813946010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=358430ebb669e410VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="CONTENT-URL-INSTALACION">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=bb32a4ea6871c010VgnVCM1000000b205a0aRCRD</atributo>
+                <atributo nombre="NOMBRE-INSTALACION">Estadio de Vallecas</atributo>
+                <atributo nombre="ID-INSTALACION">4659</atributo>
+                <atributo nombre="COORDENADA-X">444245</atributo>
+                <atributo nombre="COORDENADA-Y">4471721</atributo>
+                <atributo nombre="LATITUD">40.39234504772624</atributo>
+                <atributo nombre="LONGITUD">-3.6582462080515588</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="DISTRITO">PUENTE DE VALLECAS</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/actividades/ActividadesDeportivas/Futbol</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>Evento</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-EVENTO">8149099</atributo>
+            <atributo nombre="TITULO">Partido de fútbol. Rayo Vallecano de Madrid SAD - Villarreal CF SAD</atributo>
+            <atributo nombre="GRATUITO">0</atributo>
+            <atributo nombre="EVENTO-LARGA-DURACION">0</atributo>
+            <atributo nombre="FECHA-EVENTO">2016-04-17 00:00:00.0</atributo>
+            <atributo nombre="FECHA-FIN-EVENTO">2016-04-17 23:59:00.0</atributo>
+            <atributo nombre="HORA-EVENTO">00:00</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=1ccd566813946010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=d01b75f68769e410VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="TITULO-ACTIVIDAD">Fútbol. Campeonato Nacional de la Liga BBVA de Primera División 2015 / 2016. Partidos del Rayo Vallecano de Madrid SAD</atributo>
+            <atributo nombre="CONTENT-URL-ACTIVIDAD">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=1ccd566813946010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=358430ebb669e410VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="CONTENT-URL-INSTALACION">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=bb32a4ea6871c010VgnVCM1000000b205a0aRCRD</atributo>
+                <atributo nombre="NOMBRE-INSTALACION">Estadio de Vallecas</atributo>
+                <atributo nombre="ID-INSTALACION">4659</atributo>
+                <atributo nombre="COORDENADA-X">444245</atributo>
+                <atributo nombre="COORDENADA-Y">4471721</atributo>
+                <atributo nombre="LATITUD">40.39234504772624</atributo>
+                <atributo nombre="LONGITUD">-3.6582462080515588</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="DISTRITO">PUENTE DE VALLECAS</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/actividades/ActividadesDeportivas/Futbol</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>Evento</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-EVENTO">8149298</atributo>
+            <atributo nombre="TITULO">Partido de fútbol. Real Madrid CF - Athletic Club</atributo>
+            <atributo nombre="GRATUITO">0</atributo>
+            <atributo nombre="EVENTO-LARGA-DURACION">0</atributo>
+            <atributo nombre="FECHA-EVENTO">2016-02-14 00:00:00.0</atributo>
+            <atributo nombre="FECHA-FIN-EVENTO">2016-02-14 23:59:00.0</atributo>
+            <atributo nombre="HORA-EVENTO">00:00</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=1ccd566813946010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=2867e11b8a69e410VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="TITULO-ACTIVIDAD">Fútbol. Campeonato Nacional de la Liga BBVA de Primera División 2015 / 2016. Partidos del Real Madrid CF</atributo>
+            <atributo nombre="CONTENT-URL-ACTIVIDAD">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=1ccd566813946010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=587f93e09869e410VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="CONTENT-URL-INSTALACION">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=96fb79262ef5d010VgnVCM1000000b205a0aRCRD</atributo>
+                <atributo nombre="NOMBRE-INSTALACION">Estadio Santiago Bernabéu</atributo>
+                <atributo nombre="ID-INSTALACION">4657</atributo>
+                <atributo nombre="COORDENADA-X">441727</atributo>
+                <atributo nombre="COORDENADA-Y">4478378</atributo>
+                <atributo nombre="LATITUD">40.45214189379938</atributo>
+                <atributo nombre="LONGITUD">-3.68852449488213</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="DISTRITO">CHAMARTIN</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/actividades/ActividadesDeportivas/Futbol</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>Evento</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-EVENTO">8149300</atributo>
+            <atributo nombre="TITULO">Partido de fútbol. Real Madrid CF - Club Atlético de Madrid SAD</atributo>
+            <atributo nombre="GRATUITO">0</atributo>
+            <atributo nombre="EVENTO-LARGA-DURACION">0</atributo>
+            <atributo nombre="FECHA-EVENTO">2016-02-28 00:00:00.0</atributo>
+            <atributo nombre="FECHA-FIN-EVENTO">2016-02-28 23:59:00.0</atributo>
+            <atributo nombre="HORA-EVENTO">00:00</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=1ccd566813946010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=aca84cd47b69e410VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="TITULO-ACTIVIDAD">Fútbol. Campeonato Nacional de la Liga BBVA de Primera División 2015 / 2016. Partidos del Real Madrid CF</atributo>
+            <atributo nombre="CONTENT-URL-ACTIVIDAD">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=1ccd566813946010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=587f93e09869e410VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="CONTENT-URL-INSTALACION">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=96fb79262ef5d010VgnVCM1000000b205a0aRCRD</atributo>
+                <atributo nombre="NOMBRE-INSTALACION">Estadio Santiago Bernabéu</atributo>
+                <atributo nombre="ID-INSTALACION">4657</atributo>
+                <atributo nombre="COORDENADA-X">441727</atributo>
+                <atributo nombre="COORDENADA-Y">4478378</atributo>
+                <atributo nombre="LATITUD">40.45214189379938</atributo>
+                <atributo nombre="LONGITUD">-3.68852449488213</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="DISTRITO">CHAMARTIN</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/actividades/ActividadesDeportivas/Futbol</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>Evento</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-EVENTO">8149304</atributo>
+            <atributo nombre="TITULO">Partido de fútbol. Real Madrid CF - RC Celta de Vigo SAD</atributo>
+            <atributo nombre="GRATUITO">0</atributo>
+            <atributo nombre="EVENTO-LARGA-DURACION">0</atributo>
+            <atributo nombre="FECHA-EVENTO">2016-03-06 00:00:00.0</atributo>
+            <atributo nombre="FECHA-FIN-EVENTO">2016-03-06 23:59:00.0</atributo>
+            <atributo nombre="HORA-EVENTO">00:00</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=1ccd566813946010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=fee94cd47b69e410VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="TITULO-ACTIVIDAD">Fútbol. Campeonato Nacional de la Liga BBVA de Primera División 2015 / 2016. Partidos del Real Madrid CF</atributo>
+            <atributo nombre="CONTENT-URL-ACTIVIDAD">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=1ccd566813946010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=587f93e09869e410VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="CONTENT-URL-INSTALACION">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=96fb79262ef5d010VgnVCM1000000b205a0aRCRD</atributo>
+                <atributo nombre="NOMBRE-INSTALACION">Estadio Santiago Bernabéu</atributo>
+                <atributo nombre="ID-INSTALACION">4657</atributo>
+                <atributo nombre="COORDENADA-X">441727</atributo>
+                <atributo nombre="COORDENADA-Y">4478378</atributo>
+                <atributo nombre="LATITUD">40.45214189379938</atributo>
+                <atributo nombre="LONGITUD">-3.68852449488213</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="DISTRITO">CHAMARTIN</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/actividades/ActividadesDeportivas/Futbol</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>Evento</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-EVENTO">8149311</atributo>
+            <atributo nombre="TITULO">Partido de fútbol. Real Madrid CF - SD Eibar SAD</atributo>
+            <atributo nombre="GRATUITO">0</atributo>
+            <atributo nombre="EVENTO-LARGA-DURACION">0</atributo>
+            <atributo nombre="FECHA-EVENTO">2016-04-10 00:00:00.0</atributo>
+            <atributo nombre="FECHA-FIN-EVENTO">2016-04-10 23:59:00.0</atributo>
+            <atributo nombre="HORA-EVENTO">00:00</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=1ccd566813946010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=62ec4cd47b69e410VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="TITULO-ACTIVIDAD">Fútbol. Campeonato Nacional de la Liga BBVA de Primera División 2015 / 2016. Partidos del Real Madrid CF</atributo>
+            <atributo nombre="CONTENT-URL-ACTIVIDAD">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=1ccd566813946010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=587f93e09869e410VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="CONTENT-URL-INSTALACION">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=96fb79262ef5d010VgnVCM1000000b205a0aRCRD</atributo>
+                <atributo nombre="NOMBRE-INSTALACION">Estadio Santiago Bernabéu</atributo>
+                <atributo nombre="ID-INSTALACION">4657</atributo>
+                <atributo nombre="COORDENADA-X">441727</atributo>
+                <atributo nombre="COORDENADA-Y">4478378</atributo>
+                <atributo nombre="LATITUD">40.45214189379938</atributo>
+                <atributo nombre="LONGITUD">-3.68852449488213</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="DISTRITO">CHAMARTIN</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/actividades/ActividadesDeportivas/Futbol</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>Evento</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-EVENTO">8149308</atributo>
+            <atributo nombre="TITULO">Partido de fútbol. Real Madrid CF - Sevilla FC SAD</atributo>
+            <atributo nombre="GRATUITO">0</atributo>
+            <atributo nombre="EVENTO-LARGA-DURACION">0</atributo>
+            <atributo nombre="FECHA-EVENTO">2016-03-20 00:00:00.0</atributo>
+            <atributo nombre="FECHA-FIN-EVENTO">2016-03-20 23:59:00.0</atributo>
+            <atributo nombre="HORA-EVENTO">00:00</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=1ccd566813946010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=8e7c4cd47b69e410VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="TITULO-ACTIVIDAD">Fútbol. Campeonato Nacional de la Liga BBVA de Primera División 2015 / 2016. Partidos del Real Madrid CF</atributo>
+            <atributo nombre="CONTENT-URL-ACTIVIDAD">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=1ccd566813946010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=587f93e09869e410VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="CONTENT-URL-INSTALACION">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=96fb79262ef5d010VgnVCM1000000b205a0aRCRD</atributo>
+                <atributo nombre="NOMBRE-INSTALACION">Estadio Santiago Bernabéu</atributo>
+                <atributo nombre="ID-INSTALACION">4657</atributo>
+                <atributo nombre="COORDENADA-X">441727</atributo>
+                <atributo nombre="COORDENADA-Y">4478378</atributo>
+                <atributo nombre="LATITUD">40.45214189379938</atributo>
+                <atributo nombre="LONGITUD">-3.68852449488213</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="DISTRITO">CHAMARTIN</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/actividades/ActividadesDeportivas/Futbol</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>Evento</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-EVENTO">8149319</atributo>
+            <atributo nombre="TITULO">Partido de fútbol. Real Madrid CF - Valencia CF SAD</atributo>
+            <atributo nombre="GRATUITO">0</atributo>
+            <atributo nombre="EVENTO-LARGA-DURACION">0</atributo>
+            <atributo nombre="FECHA-EVENTO">2016-05-08 00:00:00.0</atributo>
+            <atributo nombre="FECHA-FIN-EVENTO">2016-05-08 23:59:00.0</atributo>
+            <atributo nombre="HORA-EVENTO">00:00</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=1ccd566813946010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=6ace4cd47b69e410VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="TITULO-ACTIVIDAD">Fútbol. Campeonato Nacional de la Liga BBVA de Primera División 2015 / 2016. Partidos del Real Madrid CF</atributo>
+            <atributo nombre="CONTENT-URL-ACTIVIDAD">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=1ccd566813946010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=587f93e09869e410VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="CONTENT-URL-INSTALACION">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=96fb79262ef5d010VgnVCM1000000b205a0aRCRD</atributo>
+                <atributo nombre="NOMBRE-INSTALACION">Estadio Santiago Bernabéu</atributo>
+                <atributo nombre="ID-INSTALACION">4657</atributo>
+                <atributo nombre="COORDENADA-X">441727</atributo>
+                <atributo nombre="COORDENADA-Y">4478378</atributo>
+                <atributo nombre="LATITUD">40.45214189379938</atributo>
+                <atributo nombre="LONGITUD">-3.68852449488213</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="DISTRITO">CHAMARTIN</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/actividades/ActividadesDeportivas/Futbol</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>Evento</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-EVENTO">8149313</atributo>
+            <atributo nombre="TITULO">Partido de fútbol. Real Madrid CF - Villarreal CF SAD</atributo>
+            <atributo nombre="GRATUITO">0</atributo>
+            <atributo nombre="EVENTO-LARGA-DURACION">0</atributo>
+            <atributo nombre="FECHA-EVENTO">2016-04-20 00:00:00.0</atributo>
+            <atributo nombre="FECHA-FIN-EVENTO">2016-04-20 23:59:00.0</atributo>
+            <atributo nombre="HORA-EVENTO">00:00</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=1ccd566813946010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=868d4cd47b69e410VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="TITULO-ACTIVIDAD">Fútbol. Campeonato Nacional de la Liga BBVA de Primera División 2015 / 2016. Partidos del Real Madrid CF</atributo>
+            <atributo nombre="CONTENT-URL-ACTIVIDAD">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=1ccd566813946010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=587f93e09869e410VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="CONTENT-URL-INSTALACION">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=96fb79262ef5d010VgnVCM1000000b205a0aRCRD</atributo>
+                <atributo nombre="NOMBRE-INSTALACION">Estadio Santiago Bernabéu</atributo>
+                <atributo nombre="ID-INSTALACION">4657</atributo>
+                <atributo nombre="COORDENADA-X">441727</atributo>
+                <atributo nombre="COORDENADA-Y">4478378</atributo>
+                <atributo nombre="LATITUD">40.45214189379938</atributo>
+                <atributo nombre="LONGITUD">-3.68852449488213</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="DISTRITO">CHAMARTIN</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/actividades/ActividadesDeportivas/Futbol</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>Evento</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-EVENTO">8672398</atributo>
+            <atributo nombre="TITULO">Patinaje. XIX Trofeo Internacional Latina de Grupos Show</atributo>
+            <atributo nombre="GRATUITO">1</atributo>
+            <atributo nombre="EVENTO-LARGA-DURACION">1</atributo>
+            <atributo nombre="DIAS-SEMANA">L,M,X,J,V,S,D</atributo>
+            <atributo nombre="FECHA-EVENTO">2016-02-20 00:00:00.0</atributo>
+            <atributo nombre="FECHA-FIN-EVENTO">2016-02-21 23:59:00.0</atributo>
+            <atributo nombre="HORA-EVENTO">00:00</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=1ccd566813946010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=e03e7662041b2510VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="TITULO-ACTIVIDAD">Patinaje. XIX Trofeo Internacional Latina de Grupos Show</atributo>
+            <atributo nombre="CONTENT-URL-ACTIVIDAD">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=1ccd566813946010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=51fea4defd51b410VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="CONTENT-URL-INSTALACION">http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=4506b0c40971c010VgnVCM1000000b205a0aRCRD</atributo>
+                <atributo nombre="NOMBRE-INSTALACION">Centro Deportivo Municipal Aluche</atributo>
+                <atributo nombre="ID-INSTALACION">4696</atributo>
+                <atributo nombre="COORDENADA-X">434441</atributo>
+                <atributo nombre="COORDENADA-Y">4470732</atributo>
+                <atributo nombre="LATITUD">40.382720517194784</atributo>
+                <atributo nombre="LONGITUD">-3.773653600881568</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="DISTRITO">LATINA</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/actividades/ActividadesDeportivas/Patinaje</atributo>
+        </atributos>
+    </contenido>
+</Contenidos>
+
