@@ -7,12 +7,12 @@ public class program_location {
 	public static void main(String[] args) {
 
 		Manager manager = new Manager();
-		String inputdatagson = "{\"date\":\"2016-02-07T07:12:23.304+01:00\",\"latitude\":40.4521419,\"longitude\":-3.6903855000000476,\"userID\":\"ogonzalez@futurespace.es\"}";
+		String inputdatagson = "{\"date\":\"0\",\"direccion\":\"torre picasso\",\"userID\":\"ogonzalez@futurespace.es\"}";
 		String dataManagerEvent = manager.dataManager(inputdatagson);
 		
 		System.out.println(dataManagerEvent);
 
-
+		
 
 //"latitude\":40.4521419,\"longitude\":-3.6903855000000476
 //

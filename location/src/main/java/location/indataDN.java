@@ -14,6 +14,15 @@ public class indataDN {
 	private String userID = "";
 	@SerializedName("date")
 	private String date;
+	public String direccion;
+
+	public String getDireccion() {
+		return direccion;
+	}
+
+	public void setDireccion(String direccion) {
+		this.direccion = direccion;
+	}
 
 	public String getdate() {
 		return date;
